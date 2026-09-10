@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
-===================================
+Writing physiotherapy assessments under time pressure
+=====================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The problem
+-----------
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Everyday practice runs on a tight schedule. For a therapist, that often means
+up to 25 patients in a 20-minute rhythm. On top of that, each prescription
+limits how many sessions a patient gets and what may be provided.
 
-.. note::
+The result
+----------
 
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Assessment and documentation are the first things to suffer. That causes
+problems when the health authorities audit the records, when a colleague has
+to take over, and when you sit down with the patient again and your own notes
+are no help. Practice and patient both pay for it.
